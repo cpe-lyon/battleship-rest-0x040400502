@@ -42,5 +42,4 @@ Pour chacun, préciser :
 ## Liste des fonctionnalités
 
 - Différents types de missiles ? 
-- Connexion au serveur ()
-- Déplacer les navires 
+- Connexion au serveur (avec identification des joueurs ? genre un id ou autres)
