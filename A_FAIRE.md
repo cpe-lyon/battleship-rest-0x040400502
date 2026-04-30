@@ -1,0 +1,4 @@
+- Terminer les phase de conception (Avant après donc faudrais le faire avant le cours prochains)
+- Compléter les fonctionnalités
+- Avancer sur la partie TP 
+- 
