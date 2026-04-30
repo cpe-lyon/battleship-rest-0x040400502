@@ -39,7 +39,11 @@ Pour chacun, préciser :
 - Nouvelle Partie 
 
 
-## Liste des fonctionnalités
+## Liste des fonctionnalités (idées)
 
-- Différents types de missiles ? 
+- Différents types de missiles ? (missile normal, missile coup double (2 tires), missile zone de dégât (1 cases --> 5 cases en croix X), en colonne  de 3 |, en ligne de 3 _ etc.) 
 - Connexion au serveur (avec identification des joueurs ? genre un id ou autres)
+- Choix de la taille de la grille
+- Choix du nombre de bateau
+- A chaque tire, on à une petite probabilité d'obtenir un missile (genre une sorte de loto, imaginons que l'on tire un missile puis on touche aucun bateau, il y aura 1 chance sur 100 par exemple de drop un missile spécial (décrit au dessus))
+- Ajout d'un radar ? (faudrais voir si c'est pas trop cheat) --> Découvre une zone de 5 cases en croix (X)
