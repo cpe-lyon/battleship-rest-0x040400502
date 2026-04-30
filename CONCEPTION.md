@@ -18,7 +18,7 @@ Pour chacun, préciser :
 
 # Conception
 
-## Liste des fonctionnalités
+## Suite des actions (Jeu)
 
 -  Se connecter ( authentification )
 - Liste Utilisateur
@@ -37,3 +37,10 @@ Pour chacun, préciser :
   - Raté / touché / Coulé ?
 - Fin de partie
 - Nouvelle Partie 
+
+
+## Liste des fonctionnalités
+
+- Différents types de missiles ? 
+- Connexion au serveur ()
+- Déplacer les navires 
