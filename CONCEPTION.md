@@ -1,4 +1,3 @@
-# Conception
 
 Retranscrivez ici le résultat de votre conception de l'API REST.
 
@@ -39,7 +38,23 @@ Pour chacun, préciser :
 - Nouvelle Partie 
 
 
+## Liste des endpoints
+
+### Utilisateurs
+  ```php
+    get/users #renvoie tous les utilisateurs
+    get/users/{id} # renvoie un utilisateur spécifique 
+   ```
+
+
+### Bateaux
+  ```php
+    get/ships #renvoie tous les bateaux
+    get/ships/{id} # renvoie un bateau spécifique 
+   ```
+
 ## Liste des fonctionnalités
 
 - Différents types de missiles ? 
 - Connexion au serveur (avec identification des joueurs ? genre un id ou autres)
+
