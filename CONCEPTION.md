@@ -1,4 +1,3 @@
-# Conception
 
 Retranscrivez ici le résultat de votre conception de l'API REST.
 
@@ -39,6 +38,22 @@ Pour chacun, préciser :
 - Nouvelle Partie 
 
 
+
+## Liste des endpoints
+
+### Utilisateurs
+  ```php
+    get/users #renvoie tous les utilisateurs
+    get/users/{id} # renvoie un utilisateur spécifique 
+   ```
+
+
+### Bateaux
+  ```php
+    get/ships #renvoie tous les bateaux
+    get/ships/{id} # renvoie un bateau spécifique 
+   ```
+
 ## Liste des fonctionnalités (idées)
 
 - Différents types de missiles ? (missile normal, missile coup double (2 tires), missile zone de dégât (1 cases --> 5 cases en croix X), en colonne  de 3 |, en ligne de 3 _ etc.) 
@@ -47,3 +62,4 @@ Pour chacun, préciser :
 - Choix du nombre de bateau
 - A chaque tire, on à une petite probabilité d'obtenir un missile (genre une sorte de loto, imaginons que l'on tire un missile puis on touche aucun bateau, il y aura 1 chance sur 100 par exemple de drop un missile spécial (décrit au dessus))
 - Ajout d'un radar ? (faudrais voir si c'est pas trop cheat) --> Découvre une zone de 5 cases en croix (X)
+
